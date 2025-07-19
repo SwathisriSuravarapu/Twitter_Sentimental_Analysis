@@ -1,2 +1,3 @@
-# Twitter_Sentimental_Analysis
-Real-time Twitter sentiment analysis using ML &amp; Streamlit | Predict positive or negative sentiment for any text.
+# Twitter-Sentiment-Analysis
+
+![image](https://github.com/user-attachments/assets/73c71c24-2240-4388-af2c-893f43317091)
